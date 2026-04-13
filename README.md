@@ -1,36 +1,30 @@
 # restaurant-app-Mvp-
-RUKHSAR ASAD 8961
-
-<p align="center">
-  <img src="QR CODE Restaurant Application Frontend.png" alt="Scan to view the app" width="200"/>
-  <br/>
-  <b>Scan with Expo Go to test the app!</b>
-</p>
-
+RUKHSAR JABEEN 8961
 # Mobile Application Development - Assignment No 1
 
-This repository contains the source code for the "Restaurant App MVP" developed using React Native and Expo. 
+This repository contains the source code for the "Restaurant App MVP" developed using React Native and Expo. 
 
 ## Project Structure
-- `restaurant-app-mvp/`: Contains the main React Native Expo application source code.
-- `SRS_Document.pdf`: The Software Requirements Specification document for the project.
-- `UI Diagrams/`: class diagram.png, sequence diagram.png, use case diagram.png.
+- restaurant-app-mvp/: Contains the main React Native Expo application source code.
+- SRS_Document.pdf: The Software Requirements Specification document for the project.
+- UI Diagrams: class diagram.png, sequance diagram.png, use case diagram.png.
 
 ## How to Run the Project
 
 Follow these steps to run the application on your computer and mobile device:
 
 ### Prerequisites
-1. **Node.js**: Ensure you have [Node.js](https://nodejs.org/) installed on your computer.
-2. **Expo Go App**: Download the "Expo Go" app on your physical mobile device from the Google Play Store (Android) or App Store (iOS).
+1. *Node.js*: Ensure you have [Node.js](https://nodejs.org/) installed on your computer.
+2. *Expo Go App*: Download the "Expo Go" app on your physical mobile device from the Google Play Store (Android) or App Store (iOS).
 
 ### Installation & Setup
 
-**Step 1:** Open your terminal or command prompt.
+*Step 1:* Open your terminal or command prompt.
 
-**Step 2:** Navigate into the project directory:
-```bash
+*Step 2:* Navigate into the project directory:
+bash
 cd "restaurant-app-mvp"
+
 
 *Step 3:* Install all the required dependencies:
 bash
@@ -54,3 +48,4 @@ npx expo start
 ### Troubleshooting
 - Ensure both your computer and your mobile phone are connected to the same Wi-Fi network.
 - If you face caching issues, you can start the server and clear the cache by running npx expo start -c.
+THIS IS READ ME.how i can add qr html
